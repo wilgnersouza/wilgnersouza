@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://www.linkedin.com/in/wilgner-souza-stw97/detail/background-image/" title="Wilgner banner" />
+    <img src="capa2.png" title="Wilgner banner" />
 </p>
 <h2 align="center">👋 Olá, me chamo Wilgner Souza</h2>
 
