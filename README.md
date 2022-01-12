@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://i.imgur.com/gctOYr3.png" title="Wilgner banner"/>
 </p>
-<h2 align="center">👋 Olá, me chamo Wilgner Souza</h2>
+<h2 align="center"> Olá, me chamo Wilgner Souza 👋</h2>
 
 <div align="center">
     
