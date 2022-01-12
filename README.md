@@ -30,3 +30,5 @@ Sempre buscando uma forma de aprender um pouco mais, seja pela experiência prof
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Showtimewill97&show_icons=true&theme=algolia&locale=pt-BR&border_radius=12&hide_border=true&layout=compact&card_width=445&langs_count=6)
 
+![Snake animation](https://github.com/wilgnersouza/wilgnersouza/blob/output/github-contribution-grid-snake.svg)
+
