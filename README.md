@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/--F7DF1E.svg?style=flat&logoColor=0D0D0D&logo=javascript "JavaScript")
 ![](https://img.shields.io/badge/--DD0031.svg?style=flat&logoColor=FAFAFF&logo=angular "Angular")
 ![](https://img.shields.io/badge/--A8B9CC.svg?style=flat&logoColor=0D0D0D&logo=c "C")
-![](https://img.shields.io/badge/--7952B3.svg?style=flat&logoColor=FAFAFF&logo=bootstrap "Bootstrap)
+![](https://img.shields.io/badge/--7952B3.svg?style=flat&logoColor=FAFAFF&logo=bootstrap "Bootstrap")
 ![](https://img.shields.io/badge/--0769AD.svg?style=flat&logoColor=FAFAFF&logo=java "Java")
 ![](https://img.shields.io/badge/--0769AD.svg?style=flat&logoColor=FAFAFF&logo=delphi "Delphi")
 ![](https://img.shields.io/badge/--0769AD.svg?style=flat&logoColor=FAFAFF&logo=android "Android")
