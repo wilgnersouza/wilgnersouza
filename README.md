@@ -4,19 +4,20 @@
 
 <div align="center">
     
-![PHP](https://img.shields.io/badge/--777BB4.svg?style=flat&logoColor=FAFAFF&logo=php "PHP")
-![](https://img.shields.io/badge/--0769AD.svg?style=flat&logoColor=FAFAFF&logo=jquery)
-![](https://img.shields.io/badge/--E34F26.svg?style=flat&logoColor=FAFAFF&logo=html5)
-![](https://img.shields.io/badge/--1572b6.svg?style=flat&logoColor=FAFAFF&logo=css3)
-![](https://img.shields.io/badge/--1572b6.svg?style=flat&logoColor=FAFAFF&logo=ionic)
-![](https://img.shields.io/badge/--339933.svg?style=flat&logoColor=FAFAFF&logo=node.js)
-![](https://img.shields.io/badge/--F7DF1E.svg?style=flat&logoColor=0D0D0D&logo=javascript)
-![](https://img.shields.io/badge/--DD0031.svg?style=flat&logoColor=FAFAFF&logo=angular)
-![](https://img.shields.io/badge/--A8B9CC.svg?style=flat&logoColor=0D0D0D&logo=c)
-![](https://img.shields.io/badge/--7952B3.svg?style=flat&logoColor=FAFAFF&logo=bootstrap)
-![](https://img.shields.io/badge/--0769AD.svg?style=flat&logoColor=FAFAFF&logo=java)
-![](https://img.shields.io/badge/--0769AD.svg?style=flat&logoColor=FAFAFF&logo=delphi)
-![](https://img.shields.io/badge/--0769AD.svg?style=flat&logoColor=FAFAFF&logo=android)
+![](https://img.shields.io/badge/--777BB4.svg?style=flat&logoColor=FAFAFF&logo=php "PHP")
+![](https://img.shields.io/badge/--777BB4.svg?style=flat&logoColor=FAFAFF&logo=react "React.Js")
+![](https://img.shields.io/badge/--0769AD.svg?style=flat&logoColor=FAFAFF&logo=jquery "JQuery")
+![](https://img.shields.io/badge/--E34F26.svg?style=flat&logoColor=FAFAFF&logo=html5 "HTML")
+![](https://img.shields.io/badge/--1572b6.svg?style=flat&logoColor=FAFAFF&logo=css3 "CSS")
+![](https://img.shields.io/badge/--1572b6.svg?style=flat&logoColor=FAFAFF&logo=ionic "Ionic")
+![](https://img.shields.io/badge/--339933.svg?style=flat&logoColor=FAFAFF&logo=node.js "Node.Js")
+![](https://img.shields.io/badge/--F7DF1E.svg?style=flat&logoColor=0D0D0D&logo=javascript "JavaScript")
+![](https://img.shields.io/badge/--DD0031.svg?style=flat&logoColor=FAFAFF&logo=angular "Angular")
+![](https://img.shields.io/badge/--A8B9CC.svg?style=flat&logoColor=0D0D0D&logo=c "C")
+![](https://img.shields.io/badge/--7952B3.svg?style=flat&logoColor=FAFAFF&logo=bootstrap "Bootstrap)
+![](https://img.shields.io/badge/--0769AD.svg?style=flat&logoColor=FAFAFF&logo=java "Java")
+![](https://img.shields.io/badge/--0769AD.svg?style=flat&logoColor=FAFAFF&logo=delphi "Delphi")
+![](https://img.shields.io/badge/--0769AD.svg?style=flat&logoColor=FAFAFF&logo=android "Android")
     
 </div>
 
