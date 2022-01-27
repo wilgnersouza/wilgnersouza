@@ -4,8 +4,8 @@
 
 <div align="center">
     
-![](https://img.shields.io/badge/--777BB4.svg?style=flat&logoColor=FAFAFF&logo=php "PHP")
-![](https://img.shields.io/badge/--61dafb.svg?style=flat&logoColor=FAFAFF&logo=react "React.Js")
+![](https://img.shields.io/badge/--777BB4.svg?style=flat&logoColor=0D0D0D&logo=php "PHP")
+![](https://img.shields.io/badge/--61dafb.svg?style=flat&logoColor=0D0D0D&logo=react "React.Js")
 ![](https://img.shields.io/badge/--0769AD.svg?style=flat&logoColor=FAFAFF&logo=jquery "JQuery")
 ![](https://img.shields.io/badge/--E34F26.svg?style=flat&logoColor=FAFAFF&logo=html5 "HTML")
 ![](https://img.shields.io/badge/--1572b6.svg?style=flat&logoColor=FAFAFF&logo=css3 "CSS")
