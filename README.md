@@ -5,7 +5,6 @@
 <div align="center">
     
 ![](https://img.shields.io/badge/--777BB4.svg?style=flat&logoColor=FAFAFF&logo=php "PHP")
-![](https://img.shields.io/badge/--777BB4.svg?style=flat&logoColor=FAFAFF&logo=wordpress "Wordpress")
 ![](https://img.shields.io/badge/--777BB4.svg?style=flat&logoColor=FAFAFF&logo=react "React.Js")
 ![](https://img.shields.io/badge/--0769AD.svg?style=flat&logoColor=FAFAFF&logo=jquery "JQuery")
 ![](https://img.shields.io/badge/--E34F26.svg?style=flat&logoColor=FAFAFF&logo=html5 "HTML")
@@ -18,6 +17,7 @@
 ![](https://img.shields.io/badge/--7952B3.svg?style=flat&logoColor=FAFAFF&logo=bootstrap "Bootstrap")
 ![](https://img.shields.io/badge/--0769AD.svg?style=flat&logoColor=FAFAFF&logo=java "Java")
 ![](https://img.shields.io/badge/--0769AD.svg?style=flat&logoColor=FAFAFF&logo=delphi "Delphi")
+![](https://img.shields.io/badge/--2f7bad.svg?style=flat&logoColor=FAFAFF&logo=wordpress "Wordpress")
 ![](https://img.shields.io/badge/--0769AD.svg?style=flat&logoColor=FAFAFF&logo=android "Android")
     
 </div>
