@@ -10,6 +10,7 @@
 ![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=1572b6&logo=css3 "CSS")
 ![](https://img.shields.io/badge/--339933.svg?style=flat&logoColor=FAFAFF&logo=node.js "Node.Js")
 ![](https://img.shields.io/badge/--0D0D0D.svg?style=flat&logoColor=F7DF1E&logo=javascript "JavaScript")
+![](https://img.shields.io/badge/--0D0D0D.svg?style=flat&logoColor=61dafb&logo=typescript "TypeScript")
 ![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=7952B3&logo=bootstrap "Bootstrap")
 ![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=1572b6&logo=sequelize "Sequelize")
 ![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=0D0D0D&logo=express "Express")
@@ -21,7 +22,7 @@
 
 ## Sobre
 
-Sempre buscando uma forma de aprender um pouco mais, seja pela experiência profissional ou por projetos proprios. Assim a cada dia produzo códigos mais limpos e sofisticados. Formado em Tec. de Informática pelo Instituto Federal do Amazonas, cursando Ciência da Computação, atuo majoritariamente no Desenvolvimento Web Front-End.
+Sempre buscando uma forma de aprender um pouco mais, seja pela experiência profissional ou por projetos proprios. Assim a cada dia produzo códigos mais limpos e sofisticados. Formado em Tec. de Informática pelo Instituto Federal do Amazonas, cursando Ciência da Computação, atualmente trabalho como Desenvolvedor Backend na ![MBLabs](https://www.linkedin.com/company/mblabs/mycompany/).
 
 ----
 
