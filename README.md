@@ -22,7 +22,7 @@
 
 ## Sobre
 
-Sempre buscando uma forma de aprender um pouco mais, seja pela experiência profissional ou por projetos proprios. Assim a cada dia produzo códigos mais limpos e sofisticados. Formado em Tec. de Informática pelo Instituto Federal do Amazonas, cursando Ciência da Computação, atualmente trabalho como Desenvolvedor Backend na ![MBLabs](https://www.linkedin.com/company/mblabs/mycompany/).
+Sempre buscando uma forma de aprender um pouco mais, seja pela experiência profissional ou por projetos proprios. Assim a cada dia produzo códigos mais limpos e sofisticados. Formado em Tec. de Informática pelo Instituto Federal do Amazonas, cursando Ciência da Computação, atualmente trabalho como Desenvolvedor Backend na [MBLabs](https://www.linkedin.com/company/mblabs/mycompany/).
 
 ----
 
