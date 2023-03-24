@@ -1,5 +1,7 @@
 <p align="center">
-    <img src="https://i.imgur.com/gctOYr3.png" title="Wilgner banner"/>
+    <a href="https://wilgnersouza.github.io/Meu-Portfolio/">
+		 <img src="https://i.imgur.com/gctOYr3.png" title="Wilgner banner"/>
+	</a>
 </p>
 
 <div align="center">
@@ -10,19 +12,34 @@
 ![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=1572b6&logo=css3 "CSS")
 ![](https://img.shields.io/badge/--339933.svg?style=flat&logoColor=FAFAFF&logo=node.js "Node.Js")
 ![](https://img.shields.io/badge/--0D0D0D.svg?style=flat&logoColor=F7DF1E&logo=javascript "JavaScript")
+![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=fa7a18&logo=git "Linguagem Git")
 ![](https://img.shields.io/badge/--0D0D0D.svg?style=flat&logoColor=61dafb&logo=typescript "TypeScript")
 ![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=7952B3&logo=bootstrap "Bootstrap")
 ![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=1572b6&logo=sequelize "Sequelize")
 ![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=0D0D0D&logo=express "Express")
-![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=0769AD&logo=java "Java")
+![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=007cba&logo=docker "Docker")
+![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=0D0D0D&logo=amazon "AWS Services")
+![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=007cba&logo=postgresql "PostgreSQL")
+![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=7952B3&logo=axios "Axios")
+![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=007cba&logo=sonarqube "SonarQube")
+![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=DD0031&logo=nestjs "NestJs")
 ![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=DD0031&logo=delphi "Delphi")
-![](https://img.shields.io/badge/--2f7bad.svg?style=flat&logoColor=FAFAFF&logo=wordpress "Wordpress")
-    
+![](https://img.shields.io/badge/--2f7bad.svg?style=flat&logoColor=FAFAFF&logo=wordpress "Wordpress")  
 </div>
 
 ## Sobre
 
-Sempre buscando uma forma de aprender um pouco mais, seja pela experiência profissional ou por projetos proprios. Assim a cada dia produzo códigos mais limpos e sofisticados. Formado em Tec. de Informática pelo Instituto Federal do Amazonas, cursando Ciência da Computação, atualmente trabalho como Desenvolvedor Backend na [MBLabs](https://www.linkedin.com/company/mblabs/mycompany/).
+Sou um profissional organizado, com ótima capacidade de comunicação oral e escrita, criativo e proativo, com fácil adaptação a ambientes novos e/ou de trabalho e equipe.
+
+Hoje estou trabalhando com Desenvolvevimento Backend, gerenciando, desenvolvendo e dando manutenção em projetos através das linguagens Typescript, NodeJs, React JS e Vanilla JS.
+
+Possuo experiência com as tecnologias HTML, CSS, React e NodeJs (JavaScript/Typescript), Git, Git Flow, Sequelize, TypeORM, SCRUM, Kanban, Docker entre outras. Uso recorrente de sistemas de metodologias ágeis como JIRA project, JIRA Service, Trello e Notion.
+
+Principais Iniciativas e projetos:
+
+Pleno / Papel: Backend responsável pela manutenção da plataforma de ensino - já em produção
+Engagx Core / Papel: Backend Sustain responsável por desenvolver e na manutenção do produto WL (White Label) - já em produção
+Anbima / Papel: Backend Developer responsável por features voltadas ao mercado financeiro - já em produção
 
 ----
 
