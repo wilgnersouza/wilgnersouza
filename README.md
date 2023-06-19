@@ -29,17 +29,20 @@
 
 ## Sobre
 
-Sou um profissional organizado, com ótima capacidade de comunicação oral e escrita, criativo e proativo, com fácil adaptação a ambientes novos e/ou de trabalho e equipe.
+Sou um profissional organizado, com ótima capacidade de comunicação oral e escrita, criativo e proativo, com fácil adaptação a ambientes novos e/ou de trabalho em equipe.
 
-Hoje estou trabalhando com Desenvolvevimento Backend, gerenciando, desenvolvendo e dando manutenção em projetos através das linguagens Typescript, NodeJs, React JS e Vanilla JS.
+Já trabalhei com Desenvolvevimento Backend, gerenciando, desenvolvendo e dando manutenção em projetos através das linguagens Typescript, NodeJs, React JS e Vanilla JS.
 
-Possuo experiência com as tecnologias HTML, CSS, React e NodeJs (JavaScript/Typescript), Git, Git Flow, Sequelize, TypeORM, SCRUM, Kanban, Docker entre outras. Uso recorrente de sistemas de metodologias ágeis como JIRA project, JIRA Service, Trello e Notion.
+Hoje estou trabalhando com Desenvolvimento FullStack com as tecnologias VueJs e NestJs, majoritariamente, junto as com tecnologias PrimeVue e Typescript.
+
+Possuo experiência com as tecnologias HTML, CSS, React, VueJs, NestJs, PrimeVue, NodeJs (JavaScript/Typescript), Git, Git Flow, Sequelize, TypeORM, SCRUM, Kanban, Docker entre outras. Uso recorrente de sistemas de metodologias ágeis como JIRA project, JIRA Service, Trello e Notion.
 
 Principais Iniciativas e projetos:
 
 Pleno / Papel: Backend responsável pela manutenção da plataforma de ensino - já em produção
 Engagx Core / Papel: Backend Sustain responsável por desenvolver e na manutenção do produto WL (White Label) - já em produção
 Anbima / Papel: Backend Developer responsável por features voltadas ao mercado financeiro - já em produção
+Piom - Maxipas Saúde Ocupacional / Papel: FullStack responsável pela manutenção e plataforma especializada em medicina do trabalho
 
 ----
 
