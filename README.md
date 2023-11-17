@@ -25,7 +25,7 @@
 ![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=DD0031&logo=nestjs "NestJs")
 ![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=DD0031&logo=delphi "Delphi")
 ![](https://img.shields.io/badge/--2f7bad.svg?style=flat&logoColor=FAFAFF&logo=wordpress "Wordpress")
-![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D "VueJs")
+![](https://camo.githubusercontent.com/b357d78cb59af9dcc26c081e2d335f0a5879522539b88e9e0745a31f2806768c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5675652d3466633038643f7374796c653d666c6174266c6f676f3d5675652e6a73266c6f676f436f6c6f723d666666 "VueJs")
 </div>
 
 ## Sobre
