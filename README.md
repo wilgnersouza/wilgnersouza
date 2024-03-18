@@ -28,15 +28,15 @@
 ![](https://camo.githubusercontent.com/b357d78cb59af9dcc26c081e2d335f0a5879522539b88e9e0745a31f2806768c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5675652d3466633038643f7374796c653d666c6174266c6f676f3d5675652e6a73266c6f676f436f6c6f723d666666 "VueJs")
 </div>
 
-## Sobre
+## About
 
-Sou um profissional organizado, com ótima capacidade de comunicação oral e escrita, criativo e proativo, com fácil adaptação a ambientes novos e/ou de trabalho em equipe.
+I am an organized professional, with excellent oral and written communication skills, creative and proactive, easily adapting to new environments and/or teamwork.
 
-Já trabalhei com Desenvolvevimento Backend, gerenciando, desenvolvendo e dando manutenção em projetos através das linguagens Typescript, NodeJs, React JS e Vanilla JS.
+I've worked with Backend Development, managing, developing and maintaining projects using the Typescript, NodeJs, React JS and Vanilla JS languages.
 
-Hoje estou trabalhando com Desenvolvimento FullStack com as tecnologias VueJs e NestJs, majoritariamente, junto as com tecnologias PrimeVue e Typescript.
+Today I'm working with FullStack Development with VueJs and NestJs technologies, mostly, along with PrimeVue and Prisma technologies.
 
-Possuo experiência com as tecnologias HTML, CSS, React, VueJs, NestJs, PrimeVue, NodeJs (JavaScript/Typescript), Git, Git Flow, Sequelize, TypeORM, SCRUM, Kanban, Docker entre outras. Uso recorrente de sistemas de metodologias ágeis como JIRA project, JIRA Service, Trello e Notion.
+I have experience with HTML, CSS, React, VueJs, NestJs, PrimeVue, NodeJs (JavaScript/Typescript), Git, Git Flow, Sequelize, TypeORM, SCRUM, Kanban, Docker and others that you can check in my experiences. Recurrent use of agile methodologies systems such as JIRA project, JIRA Service, Trello and Notion.
 
 
 ----
