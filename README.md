@@ -38,6 +38,8 @@
 ![](https://img.shields.io/badge/--2f7bad.svg?style=flat&logoColor=FAFAFF&logo=wordpress "Wordpress")
 ![](https://img.shields.io/badge/--build?style=flat&logo=linux&logoColor=black&color=white "Linux")
 ![](https://img.shields.io/badge/--build?style=flat&logo=windows&logoColor=blue&color=white "Windows")
+![](https://img.shields.io/badge/--build?style=flat&logo=windows&logoColor=blue&color=white "Windows" | width=50)
+
 </div>
 
 ## About
