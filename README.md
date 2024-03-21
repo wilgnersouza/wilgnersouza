@@ -7,7 +7,7 @@
 <div align="center">
     
 ![](https://img.shields.io/badge/--0D0D0D.svg?style=flat&logoColor=61dafb&logo=react "React.Js")
-![](https://img.shields.io/badge/--build?style=flat&logo=vue.js&logoColor=339933&color=gray "Vue.Js")
+![](https://img.shields.io/badge/--build?style=flat&logo=vue.js&logoColor=339933&color=FAFAFF "Vue.Js")
 ![](https://img.shields.io/badge/--339933.svg?style=flat&logoColor=FAFAFF&logo=node.js "Node.Js")
 ![](https://img.shields.io/badge/--0D0D0D.svg?style=flat&logoColor=F7DF1E&logo=javascript "JavaScript")
 ![](https://img.shields.io/badge/--0D0D0D.svg?style=flat&logoColor=61dafb&logo=typescript "TypeScript")
