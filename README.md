@@ -53,10 +53,6 @@ I have experience with HTML, CSS, React, VueJs, NestJs, PrimeVue, NodeJs (JavaSc
 
 ----
 
-<div align="center">
-
 ![Wilgnersouza GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilgnersouza&show_icons=true&hide=contribs,prs&theme=algolia&border_radius=12&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilgnersouza&show_icons=true&theme=algolia&border_radius=12&hide_border=true&layout=compact&card_width=445&langs_count=6)
-
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilgnersouza&show_icons=true&theme=algolia&border_radius=12&hide_border=true&layout=compact&card_width=445&langs_count=8)
