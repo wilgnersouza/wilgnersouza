@@ -33,11 +33,9 @@
 ![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=1572b6&logo=sequelize "Sequelize")
 ![](https://img.shields.io/badge/--build?style=flat&logo=prisma&logoColor=blue&color=white "Prisma")
 ![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=007cba&logo=postgresql "PostgreSQL")
-![](https://img.shields.io/badge/--build?style=flat&logo=oracle&logoColor=red&color=white "Oracle")
 ![](https://img.shields.io/badge/--build?style=flat&logo=mysql&logoColor=blue&color=white "MySQL")
 ![](https://img.shields.io/badge/--2f7bad.svg?style=flat&logoColor=FAFAFF&logo=wordpress "Wordpress")
 ![](https://img.shields.io/badge/--build?style=flat&logo=linux&logoColor=black&color=white "Linux")
-![](https://img.shields.io/badge/--build?style=flat&logo=windows&logoColor=blue&color=white "Windows")
 </div>
 
 ## About
