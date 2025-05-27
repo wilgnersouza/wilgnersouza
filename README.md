@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://wilgnersouza.github.io/meuportfolio2.0/">
-		 <img src="https://i.imgur.com/HP7RbFc.png" title="Wilgner banner"/>
+		 <blockquote class="imgur-embed-pub" lang="en" data-id="UjbA8Pk"><a href="https://imgur.com/UjbA8Pk">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 	</a>
 </p>
 
